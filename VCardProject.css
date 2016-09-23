@@ -1,0 +1,49 @@
+body{
+	background-image: url("NavyBlueBackground.jpg");
+	color: white;
+	
+}
+
+.biopic{
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 3px ridge #FFFFFF;
+	
+	
+	
+	
+}
+
+.paragraph{
+	margin-right: 1150px;
+	margin-bottom: 10px;
+	text-indent: 40px;
+	position: relative;
+	
+	
+	
+
+	
+}
+
+a{
+	color: gray;
+}
+
+.paragraph2{
+	margin-right: 1150px;
+	margin-bottom: 10px;
+	text-indent: 40px;
+	position: relative;
+	
+}
+
+.paragraph3{
+	margin-right: 1150px;
+	margin-bottom: 10px;
+	text-indent: 40px;
+	position: relative;
+	
+}
+
